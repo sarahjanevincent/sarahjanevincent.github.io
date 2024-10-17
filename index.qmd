@@ -31,6 +31,10 @@ format:
 
 ---
 
+![](images/pubyannickref.png)
+
+---
+
 ### Le mémoire d'Adrien {.center}
 
 ![](images/memoireadri.png)
@@ -117,11 +121,23 @@ ___
 
 ### 3. Sélectionner les références (1e GROSSE étape)
 
-C'est là que l'outil entre en compte:
+C'est là que l'outil entre en compte. Plusieurs options sont disponibles:
+
+- Covidence (l'outil qu'on a choisi)
+- Colandr
+- Rayyan
 
 ---
 
 ## Pourquoi Covidence?
+
+- Licence institutionnelle à l'Université Laval;
+- Optimisation de chacune des étapes avec une interface intuitive;
+- Grande communauté d'utilisateurs (donc +++ de ressources); 
+- Intégration avec d'autres outils (comme Zotero);
+- Collaboration en temps réel.
+
+Limite: Ce n'est pas libre-accès.
 
 https://www.covidence.org/
 
@@ -186,6 +202,16 @@ Important, avoir un consensus entre les codeurs!
 ### Des ressources à votre portée {.center}
 
 ![](images/ULresource.png)
+
+---
+
+### Autres outils pour vos revues de la littérature
+
+![](images/elicit.png)
+
+--- 
+
+![](images/reserach rabbit.png)
 
 ---
 
