@@ -105,8 +105,75 @@ format:
 ![](images/objectifsscoping.png)
 ---
 
+### 2. Repérer les études portants sur le sujet
 
+![](images/2eetapesite.png)
+___
 
+## 2. Repérer les études portants sur le sujet (un exemple)
+
+![](images/courrielemmanuelle.png)
+---
+
+### 3. Sélectionner les références (1e GROSSE étape)
+
+C'est là que l'outil entre en compte:
+
+---
+
+## Pourquoi Covidence?
+
+https://www.covidence.org/
+
+---
+
+![](images/importcovidence.png)
+---
+
+![](images/abstractscreening.png)
+
+---
+
+![](images/fulltextreview.png)
+
+---
+
+## Exemple et snowballing
+
+![](images/exempleetsnowballing.png)
+
+---
+
+### 4. Extraire les données (2e GROSSE étape)
+
+Important, avoir un consensus entre les codeurs!
+
+![](images/extractcovidence.png)
+---
+
+![](images/consensus.png)
+
+---
+
+### 5. Analyser les données
+
+![](images/analyse1.png)
+---
+
+![](images/analyse2.png)
+
+---
+
+![](images/analyse3.png)
+---
+
+![](images/analyse4.png)
+
+---
+
+### 6. Finaliser l'étude de la portée
+
+![](images/highsanddowns.png)
 
 ---
 
