@@ -10,21 +10,120 @@ format:
 ---
 
 ## 
-### Systématique ?{.center}
 
-## 
-### Pourquoi systématiser sa revue de littérature ?{.center}
+### Systématique ? {.center}
 
-## 
-### Les différents types de synthèse de la connaissance{.center}
+![](images/systematique.png)
 
-- Revue narrative
-- Snowballing (forward or backward)
-- Scoping Review
-- Revue systématique
+---
 
-## 
-### Le « scoping » et ses six étapes + Covidence {.center}
+### Expérimenter le systématique {.center}
 
-## 
+![](images/qstop100uni.png) 
+
+---
+
+![](images/textasdata.png)
+
+------------------------------------------------------------------------
+
+## ![](images/snowballing.png)
+
+---
+
+### Le mémoire d'Adrien {.center}
+
+![](images/memoireadri.png)
+
+---
+
+### Pourquoi systématiser sa revue de littérature ? {.center}
+
+1. Pour brosser le portrait précis d’un champ (scoping review)
+2. Pour répondre à une question de recherche (revue systématique)
+3. Pour publier et contribuer à la littérature
+4. Pour ne pas réinventer la roue
+5. Pour ne pas sélectionner « au hasard »
+
+---
+
+![](images/choixmethorevue.png)
+
+---
+
+### Pourquoi NE PAS systématiser sa revue de littérature
+
+1. Par manque de temps
+2. Par manque de ressources
+3. Parce qu’on souhaite un simple résumé sur une question
+
+---
+
+### Les différents types de synthèse de la connaissance {.center}
+
+-   Revue narrative
+-   Snowballing (forward or backward)
+-   Scoping Review
+-   Revue systématique
+-   Autres
+
+---
+
+![](images/typerevue.png)
+
+---
+
+### Quand je dis « Autres » ...
+
+![](images/autresrevues.png)
+---
+
+### Le « scoping review » et Covidence
+
+![](images/JBIresource.png)
+
+---
+
+### Six étapes à suivre {.center}
+
+1. Planifier le projet
+2. Repérer les études portant sur le sujet
+3. Sélectionner les références
+4. Extraire les données
+5. Analyser les données
+6. Finaliser l’étude de la portée
+
+---
+
+### 1. Planifier le projet
+
+![](images/repertoireul.png)
+---
+
+### 1. Planifier le projet
+
+![](images/objectifsscoping.png)
+---
+
+
+
+
+---
+
 ### Des ressources à votre portée {.center}
+
+![](images/JBIresource+.png)
+
+---
+
+### Des ressources à votre portée {.center}
+
+![](images/ULresource.png)
+
+---
+
+### Merci à tous et à toutes !
+
+Si vous voulez en savoir plus, n'hésitez vraiment pas à en parler avec Adrien,
+il est un grand passionné du sujet!
+
