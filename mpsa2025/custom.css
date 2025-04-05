@@ -1,0 +1,9 @@
+.reveal .title-slide .authors {
+  font-size: 0.7em;  /* Ajustez la taille selon vos préférences */
+}
+
+.reveal .slide-logo {
+  z-index: -999 !important;
+}
+
+

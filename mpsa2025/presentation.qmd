@@ -1,0 +1,297 @@
+---
+title: "Has Anything Changed Since Prius or Pickup?"
+subtitle: "A Fresh Look at American Divides"
+author:
+  - "Sarah-Jane Vincent"
+  - "Jérémy Gilbert"
+  - "Émile Dorion"
+  - "Jérémie Drouin"
+  - "Laurence-Olivier M. Foisy"
+  - "Catherine Ouellet"
+lang: en-US
+format:
+  revealjs: 
+    theme: default
+    footer: "MPSA 2025"
+    logo: logoscpo.png
+    css: custom.css
+---
+
+# Introduction & Context{background-color="black"}
+
+# {background-color="white"}
+
+- Replication Study
+- Relationships between worldview, partisan identity, and lifestyle
+
+
+::: {.notes}
+This study aims to replicate and update the seminal findings presented in "Prius or Pickup," exploring whether these relationships between worldview, partisan identity, and lifestyle persist within the contemporary political context of 2024.
+:::
+
+## Prius or Pickup {background-color="white"}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+![](priusorpickup.png){.absolute top=130 right=730 width="350" height="500"}
+:::
+::: {.column width="60%"}
+- Book published in 2018
+
+- Distinct worldviews became aligned with contemporary partisan identities
+
+- A more security-focused perspective, seeing the world as dangerous, or rather a more open perspective, viewing the world as fundamentally good
+
+- Even physiological differences!
+:::
+
+::::
+
+::: {.notes}
+Do any of you know the book Prius or Pickup? Has anyone read it?
+The influential book Prius or Pickup, published in 2018 by Hetherington and Weiler, explores how distinct worldviews became aligned with contemporary partisan identities in the United States. The authors describe two primary worldview orientations: a Fixed worldview, characterized by perceiving the world as inherently dangerous, prioritizing security, tradition, and resistance to change; and a Fluid worldview, characterized by seeing the world as fundamentally safe, embracing openness, diversity, and cultural innovation. Interestingly, these worldview differences extend beyond ideology, even reflecting physiological differences, with Fixed individuals exhibiting stronger responses to threats, profoundly influencing their political attitudes and preferences. Of course, having different manners to deal with the world, as feeling more threatened and worried influencce the policies you want to see implemented and the kind of politicians that you will like.
+:::
+
+## A simple scale! {background-color="white"}
+
+<div style="text-align: center;">
+Measuring worldviews with only four simple questions
+</div>
+<div style="text-align: center; font-weight: bold;">
+Which of the following two qualities is more important for a child to have?
+</div>
+:::: {.columns .content-columns style="display: flex;"}
+::: {.column width="49%" style="border-right: 2px solid #ccc; padding-right: 1em;"}
+**Fixed**
+
+1. Conformity
+2. Good Manners
+3. Obedience
+4. Being Well Behaved
+:::
+
+::: {.column width="49%" style="padding-left: 1em;"}
+**Fluid**
+
+1. Free Thinking
+2. Curiosity
+3. Self-Reliance
+4. Being Considerate
+:::
+
+::::
+
+
+::: {.notes}
+To measure these worldviews, Hetherington and Weiler developed a simple yet powerful scale consisting of just four questions, each reflecting child-rearing values. Participants must choose between pairs of qualities they believe are more important for children. Those who prefer conformity, good manners, obedience, and being well-behaved are categorized as Fixed, whereas those who prioritize free thinking, curiosity, self-reliance, and being considerate fall into the Fluid category. People that are choosing 1 quality on 1 side and 3 on the oher or 2-2 are called Mixed and they represent the majority of the population. They usually tend to think and position themselves more as Fixed people. On the opposite, the authors have observed that Fluid people are getting more and more extreme in their positions. This straightforward measurement allows researchers to effectively capture individuals' underlying worldview orientations.
+:::
+
+
+## Polarization in America {background-color="white"}
+
+- Ideological disagreements and strong partisan identification (Levendusky, 2009; Mason, 2018; Iyengar and al., 2019; Achenbach, 2024; Fasching and al., 2024)
+- Rising affective polarization (Iyengar and Westwood, 2015; Iyengar and al., 2019)
+- Geographic Isolation (ideologically homogeneous neighborhoods) (Brown and Enos, 2021)
+- Oil Spill Polarization (DellaPosta, 2020)
+
+::: {.notes}
+Polarization in America remains strong and multidimensional, manifesting in ideological disagreements, heightened partisan identification, and increasing affective polarization as Americans increasingly harbor deep distrust and dislike towards members of opposing political parties. Geographic isolation further reinforces polarization, as Americans increasingly reside in ideologically homogeneous neighborhoods. Additionally, political attitudes across various issues have become systematically aligned, described by scholars as the 'oil spill model' of polarization.
+:::
+
+## Lifestyle as an Expression of Worldviews
+
+Lifestyle: Observable behaviors and consumption choices that reflect an individual’s personality within a given context (Ouellet, 2024)
+
+Formation of lifestyle enclaves
+
+1. Imitation and social influence (lifestyle that align with an ideological community, driven by selective exposure and homophily) (DellaPosta and al., 2015; McPherson and al., 2001; Goldberg and Stein, 2018)
+
+# {background-color="white"}
+
+2. Political consumerism (everyday consumer choices are political statements and reinforce group identity) (Bennet 1998; Shah and al, 2007; Micheletti and Stolle, 2012; Copeland and Boulianne, 2022; Ouellet, 2024)
+
+:::{.notes}
+Lifestyle—observable behaviors and consumption patterns—reflects deeper ideological divides. Two primary theories explain the formation of lifestyle enclaves. First, imitation and social influence, suggesting people adopt lifestyles that resonate within their ideological communities The clustering of populations into ideologically distinct 'lifestyle enclaves' is amplified by imitation and social influence. Individuals gravitate towards lifestyles that align with their ideological group, driven by selective exposure and homophily. Political consumerism is a second key mechanism. People deliberately choose products reflecting their values—such as boycotting or 'buycotting'—often amplified by social media. This makes everyday consumer choices political statements, expressing political, ethical, or social values. Understanding these mechanisms helps explain why Americans with similar values and politics often adopt comparable lifestyles, further deepening cultural and political polarization.
+:::
+
+# Research Question {background-color="black"}
+
+# {background-color="white"}
+
+**To what extent do the relationships observed by Hetherington and Weiler (2018) between worldview, partisan identity, political ideology, and lifestyle preferences persist in the current political context?**
+
+- How have the divisions evolved amid the current political climate?
+
+# Methodology and Data {background-color="black"}
+
+## Data Collection {background-color="white"}
+
+- Online survey via the LEO panel (May 13 – June 28, 2024).
+- Initial sample: 2,673 respondents; Final sample after cleaning: 1,603.
+- Pre-stratified based on gender, age, language, immigration status, and region.
+- Socioeconomic status, worldview items, lifestyle questions, and political attitudes.
+
+::: {.notes}
+While panel surveys inherently involve self-selection bias, we mitigated this by applying a pre-stratification procedure based on five socioeconomic variables: gender (male/female), age (individuals aged 18 years and older), primary language spoken at home (English vs. non-English), immigration status (foreign-born vs. native), and region (Northeast, Midwest, South, West). These quotas were calibrated using data from the most recent U.S. Census.
+EXCLUSIVE DATASET WITH 58 LIFESTYLE VARIABLES, BUT ALSO POLITICAL VARIABLES (BIG THINNG)
+:::
+
+## Creating the scale{background-color="white"}
+
+
+A scale going from 0 = Fixed (if the participant chose 4 Fixed worldview traits) to 1 = Fluid (if the participant chose 4 Fluid worldview traits). 
+
+Intermediate scores: Mixed
+
+Describing and comparing this scale with the 2018 one 
+
+Independent variable for a couple of analysis
+
+# Key Findings:<br>Spectrum Distribution {background-color="black"}
+
+#
+
+:::: {.columns .content-columns style="display: flex;"}
+::: {.column width="49%" style="border-right: 2px solid #ccc; padding-right: 1em;"}
+**Original Study**
+
+29% of respondents at either extreme
+
+Dividing the scale in two:
+
+Fixed-side: 42%
+
+Fluid-side: 32%
+
+Midpoint: 26%
+:::
+
+::: {.column width="49%" style="padding-left: 1em;"}
+**2024 Analysis**
+
+29% of respondents at either extreme
+
+Dividing the scale in two:
+
+Fixed-side: 23%
+
+Fluid-side: 53%
+
+Midpoint: 24%
+:::
+
+::::
+
+<div style="margin-top: 2em; text-align: center;">
+Subsequent analyses will use percentage-based comparisons within each worldview category
+</div>
+
+::: {.notes}
+lack sufficient theoretical evidence to determine whether this shift is indicative of a broader political realignment or whether our sample disproportionately includes respondents with fluid worldviews, despite employing a pre-stratified sampling approach
+:::
+
+# Key Findings:<br>Political Alignments {background-color="black"}
+
+##
+
+![](graph/descriptive/political/graphPartyId.png){fig-align="center"}
+
+::: {.notes}
+ The discrepancy between Fixed and Fluid respondents' identification with the Republican Party (40% versus 21%, respectively) aligns closely with theoretical expectations from Hetherington and Weiler's work. The greatest within-group variation occurs among Fluid respondents, where Republican identification (21%) is markedly lower compared to Democrat (37%) and Independent (41%) identifications. Interestingly, Fluid individuals are more likely to identify as Independents than as Democrats. The higher proportion of Fluid respondents identifying as Independents may suggest a growing rejection of traditional party structures within this group. However, this pattern is not observed in the 2018 book, which reports that significantly fewer individuals self-identify as Independent. This shift could potentially stem from frustration with what they perceive as the Democrat Party's increasingly moderate positions. For example, the Democrats' ambiguous stance on the war in Gaza may have driven some more progressive voters away from the party 
+:::
+
+#
+![](graph/descriptive/political/graphVotingIntent.png){fig-align="center"}
+
+::: {.notes}
+Fixed respondents supporting Trump surpassed their Republican identification by 12 percentage points, while Fluid respondents favoring Biden exceeded their Democrat identification by an identical margin (12 percentage points). Moreover, the notably higher proportion of Fixed respondents intending to vote for Trump compared to their Republican identification (+12 percentage points) suggests that Trump has a particularly strong mobilizing effect among this group, beyond simple partisan attachment. This also suggest Trump's role as a polarizing figure who appeals to individuals with a fixed worldview, possibly due to a strong alignment between his political positions and their core values, such as order and security
+:::
+
+#
+![](graph/explicative/regressionVoteIntent.png){fig-align="center"}
+
+::: {.notes}
+
+:::
+
+#
+![](graph/descriptive/political/graphIdeology.png){fig-align="center"}
+
+::: {.notes}
+The strong liberal orientation among Fluid respondents suggests that worldview shapes not only partisan choices but also broader ideological self-placement, reinforcing the link between fluidity and progressive values. Conversely, the pronounced conservatism among Fixed respondents supports the hypothesis that worldview divisions remain deeply embedded in American political identities
+:::
+
+#
+![](graph/descriptive/political/graphMedia.png){fig-align="center"}
+
+::: {.notes}
+In their book, @hetherington_weiler18 argue that existing divisions and partisan realignment are likely to intensify as individuals increasingly consume partisan news sources and engage with polarized content on social media. To explore this hypothesis, respondents were asked: "Which news channel do you primarily rely on?". As most of Americans, respondents mostly rely on Fox News, but it is worth to note that Fluid people are more divided between different medias.
+This fragmented media consumption pattern aligns with existing research indicating that partisan media outlets such as Fox News and CNN tend to attract politically segmented audiences @iyengar_hahn09 #cite(<levendusky13c>). Given that partisan media typically portray opposing political parties negatively, it is unsurprising that Fixed respondents are more likely to watch Fox News while Fluid are leaning towards CNN @baum_groeling08 @prior13b. However, partisan media is but one of the many options available to American viewers, who are confronted with a fragmented, high-choice media environment. Thus, it is not surprising that Fixed or Fluid citizens consume news outlets that are not necessarily ideologically convergent
+:::
+
+# Key Findings:<br>Lifestyle Preferences {background-color="black"}
+
+#
+
+![](graph/descriptive/lifestyle/by_worldview/prius.png){fig-align="center"}
+
+::: {.notes}
+Fixed and Fluid individuals are less likely to live in close proximity or interact with one another—a pattern reflected not only in their consumption habits but also in their broader lifestyle practices. A speaking example is the title of Hetherington and Weiler's book. By analyzing geographic car sales, the authors find that the Toyota Prius is the most popular car for Democrat-held districts, whereas the Republican districts overwhelmingly sell Pickups and SUV (notably the Dodge Ram 1500). Furthermore, most of the top ten best-selling cars in Democrat districts are foreign made, whereas in Republican districts, American made SUVs and pickups are the biggest sellers. 
+
+Fluid respondents are the only group with an equal preference for both options, with 50% choosing the Prius and 50% opting for the pickup truck. The dominance of SUVs and Pickups in the American automobile market may influence these results. Limited availability of smaller cars, consumer incentives favoring larger vehicles @axsen_long22, and safety concerns associated with vehicle size could be driving pickup truck popularity across all worldview groups. However, the distinct preference pattern among Fluids -who are evenly split in their preference- reflects the lifestyle cleavage theorized by Hetherington and Weiler. This suggests that car choices are not merely practical decisions, but expressions of deeper ideological worldviews.
+:::
+
+#
+![](graph/descriptive/lifestyle/by_worldview/meal.png){fig-align="center"}
+
+::: {.notes}
+Someone with a fixed worldview who is a bit more cautious towards others and towards societal change might be more comfortable eating traditional American dishes. In contrast, a person with a fluid worldview, who is open and curious to new experiences and cultural diversity, might be more inclined toward international cuisine. All worldview categories tend to favor the traditional American meal. But again, significant differences emerge in the distribution: while 90% of Fixed and 79% of Mixed respondents prefer meatloaf, only 58% of Fluid individuals share this preference. Additional tests on specific food items, such as meat's consumption and arugula, show similar cultural divides in food preferences
+:::
+
+# Conclusion {background-color="black"}
+
+# {background-color="white"}
+
+- Caveats: Self-Selection Bias, No Political Issues, Relatively Small Sample (They are divided in 3 categories)
+
+- Worldviews continue to be a powerful indicator of both political alignment and lifestyle choices in 2024.
+
+- The study reinforces that polarization is deeply embedded in American society. Lifestyle is divided.
+
+- These divisions may further deepen social fragmentation, affecting social cohesion and democratic governance.
+
+::: {.notes}
+Overall, our findings demonstrate that worldview remains a central explanatory factor in understanding contemporary political divisions in the United States. Despite certain shifts since 2018, particularly the increased number of respondents identifying as Independent observed in our sample, the core relationships identified by Hetherington and Weiler largely persist.
+:::
+
+# {background-color="white"}
+<h1 style="text-align: center;">Thank you!</h2>
+
+<center>
+
+Sarah-Jane Vincent
+
+sarah-jane.vincent.1@ulaval.ca
+
+<div style="margin-bottom: 50px;"></div>
+
+![](logoscpo.png){fig-align="center" width=30%}
+
+#
+![](graph/explicative/regressionTable.png){fig-align="center"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
