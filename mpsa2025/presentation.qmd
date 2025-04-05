@@ -107,12 +107,16 @@ Formation of lifestyle enclaves
 
 1. Imitation and social influence (lifestyle that align with an ideological community, driven by selective exposure and homophily) (DellaPosta and al., 2015; McPherson and al., 2001; Goldberg and Stein, 2018)
 
+:::{.notes}
+Lifestyle—observable behaviors and consumption patterns—reflects deeper ideological divides. Two primary theories explain the formation of lifestyle enclaves. First, imitation and social influence, suggesting people adopt lifestyles that resonate within their ideological communities Individuals gravitate towards lifestyles that align with their ideological group, driven by selective exposure and homophily.
+:::
+
 # {background-color="white"}
 
 2. Political consumerism (everyday consumer choices are political statements and reinforce group identity) (Bennet 1998; Shah and al, 2007; Micheletti and Stolle, 2012; Copeland and Boulianne, 2022; Ouellet, 2024)
 
 :::{.notes}
-Lifestyle—observable behaviors and consumption patterns—reflects deeper ideological divides. Two primary theories explain the formation of lifestyle enclaves. First, imitation and social influence, suggesting people adopt lifestyles that resonate within their ideological communities The clustering of populations into ideologically distinct 'lifestyle enclaves' is amplified by imitation and social influence. Individuals gravitate towards lifestyles that align with their ideological group, driven by selective exposure and homophily. Political consumerism is a second key mechanism. People deliberately choose products reflecting their values—such as boycotting or 'buycotting'—often amplified by social media. This makes everyday consumer choices political statements, expressing political, ethical, or social values. Understanding these mechanisms helps explain why Americans with similar values and politics often adopt comparable lifestyles, further deepening cultural and political polarization.
+Political consumerism is a second key mechanism. People deliberately choose products reflecting their values—such as boycotting or 'buycotting'—often amplified by social media. This makes everyday consumer choices political statements, expressing political, ethical, or social values. Understanding these mechanisms helps explain why Americans with similar values and politics often adopt comparable lifestyles, further deepening cultural and political polarization.
 :::
 
 # Research Question {background-color="black"}
@@ -198,7 +202,7 @@ lack sufficient theoretical evidence to determine whether this shift is indicati
 ![](graph/descriptive/political/graphPartyId.png){fig-align="center"}
 
 ::: {.notes}
- The discrepancy between Fixed and Fluid respondents' identification with the Republican Party (40% versus 21%, respectively) aligns closely with theoretical expectations from Hetherington and Weiler's work. The greatest within-group variation occurs among Fluid respondents, where Republican identification (21%) is markedly lower compared to Democrat (37%) and Independent (41%) identifications. Interestingly, Fluid individuals are more likely to identify as Independents than as Democrats. The higher proportion of Fluid respondents identifying as Independents may suggest a growing rejection of traditional party structures within this group. However, this pattern is not observed in the 2018 book, which reports that significantly fewer individuals self-identify as Independent. This shift could potentially stem from frustration with what they perceive as the Democrat Party's increasingly moderate positions. For example, the Democrats' ambiguous stance on the war in Gaza may have driven some more progressive voters away from the party 
+The discrepancy between Fixed and Fluid respondents' identification with the Republican Party (40% versus 21%, respectively) aligns closely with theoretical expectations from Hetherington and Weiler's work. Fluid individuals are also more likely to identify as Independents than as Democrats. The higher proportion of Fluid respondents identifying as Independents may suggest a growing rejection of traditional party structures within this group. However, this pattern is not observed in the 2018 book. This shift could potentially stem from frustration with what they perceive as the Democrat Party's increasingly moderate positions. For example, the Democrats' ambiguous stance on the war in Gaza may have driven some more progressive voters away from the party 
 :::
 
 #
@@ -212,7 +216,7 @@ Fixed respondents supporting Trump surpassed their Republican identification by 
 ![](graph/explicative/regressionVoteIntent.png){fig-align="center"}
 
 ::: {.notes}
-
+Here is a multinomial logit regression that shows the predicted voting probability depending on the respondent's worldview.
 :::
 
 #
@@ -226,7 +230,8 @@ The strong liberal orientation among Fluid respondents suggests that worldview s
 ![](graph/descriptive/political/graphMedia.png){fig-align="center"}
 
 ::: {.notes}
-In their book, @hetherington_weiler18 argue that existing divisions and partisan realignment are likely to intensify as individuals increasingly consume partisan news sources and engage with polarized content on social media. To explore this hypothesis, respondents were asked: "Which news channel do you primarily rely on?". As most of Americans, respondents mostly rely on Fox News, but it is worth to note that Fluid people are more divided between different medias.
+In their book, @hetherington_weiler18 argue that existing divisions and partisan realignment are likely to intensify as individuals increasingly consume partisan news sources and engage with polarized content on social media. To explore this hypothesis, respondents were asked: "Which news channel do you primarily rely on?". As most of Americans, our respondents mostly rely on Fox News, but it is worth to note that Fluid people are more divided between different medias.
+
 This fragmented media consumption pattern aligns with existing research indicating that partisan media outlets such as Fox News and CNN tend to attract politically segmented audiences @iyengar_hahn09 #cite(<levendusky13c>). Given that partisan media typically portray opposing political parties negatively, it is unsurprising that Fixed respondents are more likely to watch Fox News while Fluid are leaning towards CNN @baum_groeling08 @prior13b. However, partisan media is but one of the many options available to American viewers, who are confronted with a fragmented, high-choice media environment. Thus, it is not surprising that Fixed or Fluid citizens consume news outlets that are not necessarily ideologically convergent
 :::
 
@@ -246,7 +251,8 @@ Fluid respondents are the only group with an equal preference for both options, 
 ![](graph/descriptive/lifestyle/by_worldview/meal.png){fig-align="center"}
 
 ::: {.notes}
-Someone with a fixed worldview who is a bit more cautious towards others and towards societal change might be more comfortable eating traditional American dishes. In contrast, a person with a fluid worldview, who is open and curious to new experiences and cultural diversity, might be more inclined toward international cuisine. All worldview categories tend to favor the traditional American meal. But again, significant differences emerge in the distribution: while 90% of Fixed and 79% of Mixed respondents prefer meatloaf, only 58% of Fluid individuals share this preference. Additional tests on specific food items, such as meat's consumption and arugula, show similar cultural divides in food preferences
+All worldview categories tend to favor the traditional American meal. But again, significant differences emerge in the distribution: while 90% of Fixed and 79% of Mixed respondents prefer meatloaf, only 58% of Fluid individuals share this preference. Additional tests on specific food items, such as meat's consumption and arugula, show similar cultural divides in food preferences. 
+As people with a fixed worldview are leaning towards tradition and security, they might be more inclined to stay with traditional meals. In contrast, a person with a fluid worldview, who is open and curious to new experiences and cultural diversity, might be more inclined toward international cuisine. 
 :::
 
 # Conclusion {background-color="black"}
